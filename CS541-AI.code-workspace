@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../CS583-DL"
+		},
+		{
+			"path": "../CS584-NLP"
+		},
+		{
+			"path": "../FE_Bloomberg"
+		},
+		{
+			"path": "../FE_Python"
+		}
+	]
+}
